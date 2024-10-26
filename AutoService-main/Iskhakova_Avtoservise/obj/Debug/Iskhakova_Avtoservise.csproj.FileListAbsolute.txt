@@ -1,0 +1,128 @@
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.AssemblyReference.cache
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\AddEditPage.g.cs
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\MainWindow.g.cs
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\ServicePage.g.cs
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\App.g.cs
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise_MarkupCompile.cache
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise_MarkupCompile.lref
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\bin\Debug\Iskhakova_Avtoservise.exe.config
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\bin\Debug\Iskhakova_Avtoservise.exe
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\bin\Debug\Iskhakova_Avtoservise.pdb
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\AddEditPage.baml
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\MainWindow.baml
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\ServicePage.baml
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.g.resources
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.Properties.Resources.resources
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.GenerateResource.cache
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.CoreCompileInputs.cache
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.exe
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.pdb
+C:\Users\Залина\Desktop\Тимашева 2 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\App.baml
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\bin\Debug\Iskhakova_Avtoservise.exe.config
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\bin\Debug\Iskhakova_Avtoservise.exe
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\bin\Debug\Iskhakova_Avtoservise.pdb
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\bin\Debug\EntityFramework.dll
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\bin\Debug\EntityFramework.xml
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.AssemblyReference.cache
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\AddEditPage.g.cs
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\MainWindow.g.cs
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\ServicePage.g.cs
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\App.g.cs
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise_Content.g.cs
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise_MarkupCompile.cache
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise_MarkupCompile.lref
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\App.baml
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\AddEditPage.baml
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\MainWindow.baml
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\ServicePage.baml
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.g.resources
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.Properties.Resources.resources
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.GenerateResource.cache
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.CoreCompileInputs.cache
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.CopyComplete
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.exe
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.pdb
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\bin\Debug\Iskhakova_Avtoservise.exe.config
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\bin\Debug\Iskhakova_Avtoservise.exe
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\bin\Debug\Iskhakova_Avtoservise.pdb
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\bin\Debug\EntityFramework.dll
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\bin\Debug\EntityFramework.xml
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.AssemblyReference.cache
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\AddEditPage.g.cs
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\MainWindow.g.cs
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\ServicePage.g.cs
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\App.g.cs
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise_Content.g.cs
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise_MarkupCompile.cache
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise_MarkupCompile.lref
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\App.baml
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\AddEditPage.baml
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\MainWindow.baml
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\ServicePage.baml
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.g.resources
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.Properties.Resources.resources
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.GenerateResource.cache
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.CoreCompileInputs.cache
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.CopyComplete
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.exe
+C:\Users\Залина\Desktop\РПМ 3 курс\Iskhakova_Avtoservise — копия\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.pdb
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.AssemblyReference.cache
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\AddEditPage.g.cs
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\MainWindow.g.cs
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\ServicePage.g.cs
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\App.g.cs
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise_Content.g.cs
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise_MarkupCompile.cache
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise_MarkupCompile.lref
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.exe
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.pdb
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\bin\Debug\Iskhakova_Avtoservise.exe.config
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\bin\Debug\Iskhakova_Avtoservise.exe
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\bin\Debug\Iskhakova_Avtoservise.pdb
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\bin\Debug\EntityFramework.dll
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\bin\Debug\EntityFramework.xml
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\App.baml
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\AddEditPage.baml
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\MainWindow.baml
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\ServicePage.baml
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.g.resources
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.Properties.Resources.resources
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.GenerateResource.cache
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.CoreCompileInputs.cache
+C:\Users\Залина\Source\Repos\AutoService\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.CopyComplete
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\bin\Debug\Iskhakova_Avtoservise.exe.config
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\bin\Debug\Iskhakova_Avtoservise.exe
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\bin\Debug\Iskhakova_Avtoservise.pdb
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\bin\Debug\EntityFramework.dll
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\bin\Debug\EntityFramework.SqlServer.dll
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\bin\Debug\EntityFramework.xml
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\bin\Debug\EntityFramework.SqlServer.xml
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\bin\Debug\ru\EntityFramework.resources.dll
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.AssemblyReference.cache
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\AddEditPage.g.cs
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\MainWindow.g.cs
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\ServicePage.g.cs
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\App.g.cs
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise_Content.g.cs
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise_MarkupCompile.cache
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise_MarkupCompile.lref
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\App.baml
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\AddEditPage.baml
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\MainWindow.baml
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\ServicePage.baml
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.g.resources
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.Properties.Resources.resources
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.GenerateResource.cache
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.CoreCompileInputs.cache
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.CopyComplete
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.exe
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.pdb
