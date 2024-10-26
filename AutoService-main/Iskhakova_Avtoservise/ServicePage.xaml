@@ -39,8 +39,8 @@
             <RadioButton Content="По убыванию стоимости" GroupName="Sort" Width="300" FontSize="20" Checked="RadioButton_Checked_1" Name="RButtonDown"></RadioButton>
         </StackPanel>
 
-        <Button Content="Добавить" Name="AddButton"  Click="AddButton_Click" HorizontalAlignment="Right" VerticalAlignment="Bottom"></Button>
-        
+        <Button Content="Добавить" Name="AddButton"  Click="AddButton_Click" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,15" Grid.Row="1"/>
+
         <ListView Name="ServiceListView"  Grid.Row="2">
             <ListView.ItemTemplate>
                 <DataTemplate>
