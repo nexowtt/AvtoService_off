@@ -45,26 +45,55 @@ namespace Iskhakova_Avtoservise
                 errors.AppendLine("Укажите скидку");
             if (_currentServise.Discount > 1)
                 errors.AppendLine("Укажите скидку");
-            if (string.IsNullOrWhiteSpace(_currentServise.Duration))
+            if (_currentServise.Duration < 0)
                 errors.AppendLine("Укажите длительность услуги");
+
+            if (_currentServise.Duration > 240)
+                errors.AppendLine("Длительность не может быть больше 240 минут");
 
             if (errors.Length > 0)
             {
                 MessageBox.Show(errors.ToString());
                 return;
             }
-            if (_currentServise.ID == 0)
-                iskhakova_avtoserviceEntities.GetContext().Service.Add(_currentServise);
-            try
+
+            var allServices = iskhakova_avtoserviceEntities2.GetContext().Service.ToList();
+            allServices = allServices.Where(p => p.Title == _currentServise.Title).ToList();
+
+            if (allServices.Count == 0)
             {
-                iskhakova_avtoserviceEntities.GetContext().SaveChanges();
-                MessageBox.Show("информация сохранена");
-                Manager.MainFrame.GoBack();
+                if (_currentServise.ID == 0)
+                    iskhakova_avtoserviceEntities2.GetContext().Service.Add(_currentServise);
+                try
+                {
+                    iskhakova_avtoserviceEntities2.GetContext().SaveChanges();
+                    MessageBox.Show("Информация сохранена");
+                    Manager.MainFrame.GoBack();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.ToString());
+                }
             }
-            catch (Exception ex)
+            else
             {
-                MessageBox.Show(ex.ToString());
+                MessageBox.Show("Уже существует такая услуга");
+                if (_currentServise.ID == 0)
+                    iskhakova_avtoserviceEntities2.GetContext().Service.Add(_currentServise);
+                try
+                {
+                    iskhakova_avtoserviceEntities2.GetContext().SaveChanges();
+                    MessageBox.Show("Информация сохранена");
+                    Manager.MainFrame.GoBack();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.ToString());
+                }
             }
         }
     }
 }
+            
+            
+

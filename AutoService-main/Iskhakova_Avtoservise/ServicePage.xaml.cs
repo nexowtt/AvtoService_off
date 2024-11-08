@@ -30,7 +30,7 @@ namespace Iskhakova_Avtoservise
             InitializeComponent();
             //добавляем строки
             //загрузить в список из бд
-            var currentServies = iskhakova_avtoserviceEntities.GetContext().Service.ToList();
+            var currentServies = iskhakova_avtoserviceEntities2.GetContext().Service.ToList();
             //связать с нашим листвью
             ServiceListView.ItemsSource=currentServies;
             //добавили строки
@@ -60,7 +60,7 @@ namespace Iskhakova_Avtoservise
 
         private void UpdateServices()
         {
-            var currentServices = iskhakova_avtoserviceEntities.GetContext().Service.ToList();
+            var currentServices = iskhakova_avtoserviceEntities2.GetContext().Service.ToList();
 
             if (ComboType.SelectedIndex == 0)
             {
@@ -126,8 +126,8 @@ namespace Iskhakova_Avtoservise
         {
             if (Visibility == Visibility.Visible)
             {
-                iskhakova_avtoserviceEntities.GetContext().ChangeTracker.Entries().ToList().ForEach(p => p.Reload());
-                ServiceListView.ItemsSource = iskhakova_avtoserviceEntities.GetContext().Service.ToList();
+                iskhakova_avtoserviceEntities2.GetContext().ChangeTracker.Entries().ToList().ForEach(p => p.Reload());
+                ServiceListView.ItemsSource = iskhakova_avtoserviceEntities2.GetContext().Service.ToList();
                 UpdateServices();
             }
         }
@@ -137,7 +137,7 @@ namespace Iskhakova_Avtoservise
             //забираем Сервис, для которого нажата кнопка "Удалить"
             var currentService = (sender as Button).DataContext as Service;
             //проверка на возможность удаления
-            var currentClientServices = iskhakova_avtoserviceEntities.GetContext().ClientService.ToList();
+            var currentClientServices = iskhakova_avtoserviceEntities2.GetContext().ClientService.ToList();
             currentClientServices=currentClientServices.Where(p => p.ServiceID == currentService.ID).ToList();
 
             if (currentClientServices.Count != 0) //усли есть записи на этот сервис
@@ -149,10 +149,10 @@ namespace Iskhakova_Avtoservise
                 {
                     try
                     {
-                        iskhakova_avtoserviceEntities.GetContext().Service.Remove(currentService);
-                        iskhakova_avtoserviceEntities.GetContext().SaveChanges();
+                        iskhakova_avtoserviceEntities2.GetContext().Service.Remove(currentService);
+                        iskhakova_avtoserviceEntities2.GetContext().SaveChanges();
                         //выводим в листвью измененую таблицу Сервис
-                        ServiceListView.ItemsSource=iskhakova_avtoserviceEntities.GetContext().Service.ToList();
+                        ServiceListView.ItemsSource=iskhakova_avtoserviceEntities2.GetContext().Service.ToList();
                         //чтобы применились фильтры и поиск, если они были на форме изначально
                         UpdateServices();
                     }
@@ -277,6 +277,11 @@ namespace Iskhakova_Avtoservise
         private void PageListBox_MouseUp_1(object sender, MouseButtonEventArgs e)
         {
             ChangePage(0, Convert.ToInt32(PageListBox.SelectedItem.ToString()) - 1);
+        }
+
+        private void SignUpButon_Click(object sender, RoutedEventArgs e)
+        {
+            Manager.MainFrame.Navigate(new SignUpPage((sender as Button).DataContext as Service));
         }
     }
 }

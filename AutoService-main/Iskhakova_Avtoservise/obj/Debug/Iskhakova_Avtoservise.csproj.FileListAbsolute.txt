@@ -126,3 +126,5 @@ D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj
 D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.csproj.CopyComplete
 D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.exe
 D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\Iskhakova_Avtoservise.pdb
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\SignUpPage.g.cs
+D:\РПМ 3 курс\AutoService-main\AutoService-main\Iskhakova_Avtoservise\obj\Debug\SignUpPage.baml

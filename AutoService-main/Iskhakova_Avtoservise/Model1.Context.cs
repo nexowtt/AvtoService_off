@@ -13,23 +13,20 @@ namespace Iskhakova_Avtoservise
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class iskhakova_avtoserviceEntities : DbContext
+    public partial class iskhakova_avtoserviceEntities2 : DbContext
     {
-       
-            // добавлено
-            private static iskhakova_avtoserviceEntities _context;
-            public static iskhakova_avtoserviceEntities GetContext()
-            {
-                if (_context == null)
-                    _context = new iskhakova_avtoserviceEntities();
-                return _context;
-            }
-            // добавлено
-            public iskhakova_avtoserviceEntities()
-            : base("name=iskhakova_avtoserviceEntities")
+        public iskhakova_avtoserviceEntities2()
+            : base("name=iskhakova_avtoserviceEntities2")
         {
         }
-    
+        public static iskhakova_avtoserviceEntities2 _context;
+        public static iskhakova_avtoserviceEntities2 GetContext()
+        {
+            if (_context == null)
+                _context = new iskhakova_avtoserviceEntities2();
+            return _context;
+        }
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             throw new UnintentionalCodeFirstException();
